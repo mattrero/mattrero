@@ -17,6 +17,8 @@
 
 ## 🛠 Tech stack
 
+**👨‍💻 Languages and editors**
+
 [![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
@@ -32,6 +34,9 @@
 [![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&logo=vim&logoColor=white)](https://www.vim.org/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=Visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
+
+**🐍 Python libraries and tools**
+
 [![Flask](https://img.shields.io/badge/-Flask-000000?logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
 [![Gunicorn](https://img.shields.io/badge/-Gunicorn-499848?logo=gunicorn&logoColor=white)](https://gunicorn.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white)](https://jupyter.org/)
@@ -39,25 +44,33 @@
 [![Pipenv](https://img.shields.io/badge/-Pipenv-333333)](https://pipenv.pypa.io/en/latest/)
 [![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)](https://docs.pytest.org/)
 
+**☁ Data and infrastructure**
+
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
 [![MySQL](https://img.shields.io/badge/-MySQL-005C84?logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=RabbitMQ&logoColor=ffffff)](https://www.rabbitmq.com/)
 
 [![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=ffffff)](https://www.docker.com/)
-[![Helm](https://img.shields.io/badge/-Helm-0f1689?logo=Helm&logoColor=white)](https://helm.sh/)
-[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://en.wikipedia.org/wiki/Linux)
-[![Terraform](https://img.shields.io/badge/-Terraform-%235835CC?logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+
+**📦 DevOps tools**
 
 [![ArgoCD](https://img.shields.io/badge/ArgoCD-FE733E?logo=ArgoCD&logoColor=white)](https://argo-cd.readthedocs.io/en/stable/)
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white)](https://bitbucket.org/)
 [![CircleCI](https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white)](https://circleci.com/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=%23ffffff)](https://git-scm.com/)
-[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=Jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![Helm](https://img.shields.io/badge/-Helm-0f1689?logo=Helm&logoColor=white)](https://helm.sh/)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
+[![Terraform](https://img.shields.io/badge/-Terraform-%235835CC?logo=terraform&logoColor=white)](https://www.terraform.io/)
+
+
+**🗃 Learning and organizational tools**
 
 [![Anki](https://img.shields.io/badge/-Anki-727272?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgc2hhcGUtcmVuZGVyaW5nPSJnZW9tZXRyaWNQcmVjaXNpb24iIGltYWdlLXJlbmRlcmluZz0ib3B0aW1pemVRdWFsaXR5IiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyI+PHBhdGggZmlsbD0iIzAwYmNmZiIgZD0iTTIwLjUuNWM3LjA3LS4xMjMgMTIuNzM3IDIuNzEgMTcgOC41IDQuODE0LS41OTUgOS42NDgtMS40MjkgMTQuNS0yLjUgNi44OC41NTIgOS41NDcgNC4yMTkgOCAxMS0xLjMwNiAzLjk0Ni0zLjEzOSA3LjYxMi01LjUgMTEgMi42OTYgMy41MyA1LjE5NiA3LjE5NiA3LjUgMTEgMS4yMTkgNy4xMTktMS43ODEgMTEuMTE5LTkgMTItMy43MTgtLjU5Ni03LjM4NC0xLjI2Mi0xMS0yTDMyLjUgNjFjLTYuMTYzIDMuMDQyLTEwLjY2MyAxLjU0Mi0xMy41LTQuNWE3My42OCA3My42OCAwIDAgMS0yLTExIDU0LjA1IDU0LjA1IDAgMCAxLTE1LTdDLS43ODEgMzIuOTU2LjM4NiAyOC40NTYgNS41IDI1YzMuNDEyLTEuNDU0IDYuNTc5LTMuMjg4IDkuNS01LjVsMS0xM2MuODA0LTIuNjQ2IDIuMzA0LTQuNjQ2IDQuNS02em0zIDZjNC4xMjUgMi45NTMgOC4xMjUgNi4xMTkgMTIgOS41IDUuNzA5LjEwNCAxMS4yMDktMS4wNjMgMTYuNS0zLjUuNzcyLjE0NSAxLjQzOS40NzggMiAxLTEuNjk3IDUuMjQzLTMuODYzIDEwLjQxLTYuNSAxNS41IDIuNzUxIDQuODM3IDUuNzUxIDkuNTAzIDkgMTQtMS42MTYgMS4wNzctMy40NDkgMS41NzctNS41IDEuNS00LjE1Ny0uNzkyLTguMzIzLS45NTgtMTIuNS0uNS0zLjk1IDQuMDcyLTcuNzgzIDguMjM4LTExLjUgMTIuNWwtMi0yYy0uNTc0LTQuNzgyLTEuNTc0LTkuNDQ4LTMtMTRhMTk0LjA1IDE5NC4wNSAwIDAgMS0xNS41LTdjNC43MDktMy40NDQgOS41NDItNi43NzcgMTQuNS0xMCAuMDQ4LTUuODQ0Ljg4MS0xMS41MTEgMi41LTE3eiIgb3BhY2l0eT0iLjgxNSIvPjwvc3ZnPg==&logoColor=white)](https://apps.ankiweb.net/)
 [![Inoreader](https://img.shields.io/badge/-Inoreader-007BC7?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMTEzcHgiIGhlaWdodD0iMTExcHgiIHZpZXdCb3g9IjAgMCAxMTMgMTExIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCA2My4xICg5MjQ1MikgLSBodHRwczovL3NrZXRjaC5jb20gLS0+CiAgICA8dGl0bGU+aW5vX2xvZ288L3RpdGxlPgogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+CiAgICA8ZyBpZD0iUGFnZS0xIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgICAgICA8ZyBpZD0iSW5vcmVhZGVyLXZzLUZlZWRseS0ydiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTc1MC4wMDAwMDAsIC0xMDAuMDAwMDAwKSIgZmlsbC1ydWxlPSJub256ZXJvIj4KICAgICAgICAgICAgPGcgaWQ9Ikdyb3VwLTE1IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg3NTAuMDAwMDAwLCAxMDAuMDAwMDAwKSI+CiAgICAgICAgICAgICAgICA8ZyBpZD0iaW5vX2xvZ28iIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAuMDAwMDAwLCAwLjk0NzM2OCkiPgogICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik01Ni4zMzc5NjQ5LDAgQzg3LjQ1MjU2MzgsMCAxMTIuNjc1OTMsMjQuNTkyNzgxOSAxMTIuNjc1OTMsNTQuOTI5NTE1OCBDMTEyLjY3NTkzLDg1LjI2NjI0OTYgODcuNDUyNTYzOCwxMDkuODU5MDMyIDU2LjMzNzk2NDksMTA5Ljg1OTAzMiBDMjUuMjIzMzY2LDEwOS44NTkwMzIgMCw4NS4yNjYyNDk2IDAsNTQuOTI5NTE1OCBDMCwyNC41OTI3ODE5IDI1LjIyMzM2NiwwIDU2LjMzNzk2NDksMCBaIiBpZD0iQ29tYmluZWQtU2hhcGUiIGZpbGw9IiMwMDdCQzciPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNNDMuODM0NTIxOCw0Ny4yNzAxMjQ0IEM1NS4wNzU0NTY0LDQ3LjI3MDEyNDQgNjQuMTkxNzc2NSw1Ni4xNTYyNjI3IDY0LjE5MTc3NjUsNjcuMTE4OTA0MSBDNjQuMTkxNzc2NSw3OC4wODM1NzAyIDU1LjA3NTQ1NjQsODYuOTcxNzMzMyA0My44MzQ1MjE4LDg2Ljk3MTczMzMgQzMyLjU5MDQ3MjIsODYuOTcxNzMzMyAyMy40NzQxNTIsNzguMDgzNTcwMiAyMy40NzQxNTIsNjcuMTE4OTA0MSBDMjMuNDc0MTUyLDU2LjE1NjI2MjcgMzIuNTkwNDcyMiw0Ny4yNzAxMjQ0IDQzLjgzNDUyMTgsNDcuMjcwMTI0NCBaIE00OS41NzU5NjU1LDU1Ljc2MDQwMDcgQzQ2LjM1MjY5ODgsNTUuNzYwNDAwNyA0My43NDAwMjU0LDU4LjMwOTcxMDkgNDMuNzQwMDI1NCw2MS40NDUyMjA2IEM0My43NDAwMjU0LDY0LjU4OTg0MjQgNDYuMzUyNjk4OCw2Ny4xMzQwOTA0IDQ5LjU3NTk2NTUsNjcuMTM0MDkwNCBDNTIuNzk1MDc4Niw2Ny4xMzQwOTA0IDU1LjQwNTY3NTIsNjQuNTg5ODQyNCA1NS40MDU2NzUyLDYxLjQ0NTIyMDYgQzU1LjQwNTY3NTIsNTguMzA5NzEwOSA1Mi43OTUwNzg2LDU1Ljc2MDQwMDcgNDkuNTc1OTY1NSw1NS43NjA0MDA3IFogTTQzLjgzNDEwNjYsMzMuMjQzMjQ4NSBDNjIuOTk1MDk3NCwzMy4yNDMyNDg1IDc4LjU4Mjg3MjcsNDguNDQwOTAzNyA3OC41ODI4NzI3LDY3LjExOTMwOSBMNzguNTgyODcyNyw2Ny4xMTkzMDkgTDcxLjI0NTM3MjIsNjcuMTE5MzA5IEw3MS4yNDE2OTE2LDY2LjY3ODA5MjggQzcwLjk5OTA4ODUsNTIuMTQ1NzUwNCA1OC43OTQxMzQsNDAuMzk1MDg2NCA0My44MzQxMDY2LDQwLjM5NTA4NjQgTDQzLjgzNDEwNjYsNDAuMzk1MDg2NCBaIE00My44MzQyMTA1LDE4LjMwOTgzODYgQzU3LjIwNzAyODUsMTguMzA5ODM4NiA2OS43NzUwNjg0LDIzLjM4NjE4NTUgNzkuMjMxOTkxNCwzMi42MDQ0MDIxIEM4OC42ODc4NzU4LDQxLjgyNTY1NjEgOTMuODk2NjA4Miw1NC4wODMyMDEzIDkzLjg5NjYwODIsNjcuMTE5MzA5IEw5My44OTY2MDgyLDY3LjExOTMwOSBMODYuNTU4MDY5Miw2Ny4xMTkzMDkgTDg2LjU1NDI0NzMsNjYuNTU0MzMwMiBDODYuNDA2NTQyMyw1NS42NDI3NTMxIDgxLjk4MjAwMDcsNDUuMzk5ODI0NyA3NC4wNDcxNDI4LDM3LjY2NDU1MDEgQzY1Ljk3NDQzODIsMjkuNzk1OTA4NyA1NS4yNDU0NDY1LDI1LjQ2MTY3NjQgNDMuODM0MjEwNSwyNS40NjE2NzY0IEw0My44MzQyMTA1LDI1LjQ2MTY3NjQgWiIgaWQ9IkNvbWJpbmVkLVNoYXBlIiBmaWxsPSIjRkZGRkZGIj48L3BhdGg+CiAgICAgICAgICAgICAgICA8L2c+CiAgICAgICAgICAgIDwvZz4KICAgICAgICA8L2c+CiAgICA8L2c+Cjwvc3ZnPg==&logoColor=white)](https://www.inoreader.com/)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=Jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
 [![Miro](https://img.shields.io/badge/Miro-050038?logo=Miro&logoColor=white)](https://miro.com/)
 [![Notion](https://img.shields.io/badge/-Notion-010101?logo=notion&logoColor=white)](https://www.notion.so)
