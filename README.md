@@ -84,7 +84,7 @@
 
 ## 👨‍💻 Side projects
 
-Projects I worked on my free time outside of work or studies.
+Projects I worked on during my free time.
 
 More recent projects appear first.
 
