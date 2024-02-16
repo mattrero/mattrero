@@ -6,8 +6,7 @@
 [![CodinGame Badge](https://img.shields.io/badge/-CodinGame-222222?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLW1pdGVybGltaXQ9IjIiIHZpZXdCb3g9IjAgMCAyMDgzIDIwODMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjI1MDAiIGhlaWdodD0iMjUwMCI+PHBhdGggZD0iTTAgMGgyMDgzdjIwODNIMHoiIGZpbGw9IiNmY2QyMDciLz48ZyBmaWxsPSIjMWYyNTI4Ij48cGF0aCBkPSJNMCAxNjM2YzQxMS41NTQtOTcuNzcxIDY5Mi44OTctMjgzLjE3NyA3MjQtNjM3IDEwLjcxNC0xMzEuMjEyIDY3LjM2NC0yNDMuNzc3IDIxNi0zMTkgMjA3LjY3NS04MC42MTcgMzA1LjcyOC01Mi4xNjQgMzkwLTEwIDkyLjY2OCA4MS43MjIgMTE5LjQ2OCAxOTkuOTQgNTAgMzcxLjUtMzEuOTE0IDEwMC4yNjYtMjkxLjAwMSAyMjMuODY3LTQxMCAyNTguNS0zOTIuNTM5IDE3NS44OTMtNTk1LjUwNCA0MzAuMjgyLTU2MSA3ODNIMHoiLz48ZWxsaXBzZSBjeD0iMTY2Ni41IiBjeT0iNDA4IiByeD0iMTk2LjUiIHJ5PSIxOTIiLz48L2c+PC9zdmc+&logoColor=white)](https://www.codingame.com/profile/f821fba41249c450445b3f26c92271d1606338)
 
 
-- 🔭 I’m currently working as a Technical Leader at [Invivoo](https://github.com/Invivoo) 
-  - 📐 Designing, building and maintaining a chatbot factory project (Python, microservices, ML, cloud, ...)  
+- 🔭 I’m currently working as a Senior Backend Engineer at Back Market
 - 🌱 I’m always working to improve myself and expand my knowledge
   - 🔍 Putting emphasis on my soft skills (eg. empathy, mentoring, communication) 
 - 💚 I love reading, learning, going to tech events and discovering new stuffs
